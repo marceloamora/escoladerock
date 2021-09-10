@@ -1,0 +1,24 @@
+2021-06-20 01:45:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
+2021-06-20 01:46:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
+2021-06-20 01:48:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
+2021-06-20 01:49:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
+2021-06-20 01:51:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
+2021-06-20 01:53:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
+2021-06-20 01:56:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
+2021-06-20 02:15:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUNO" not found; SQL statement:
+insert into aluno (id, name, registration_number) values (null, ?, ?) [42102-200]
